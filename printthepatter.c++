@@ -1,5 +1,6 @@
 //WAP in c++ to print patter
 #include <iostream>
+#include <cstring>
 
 using namespace std;
 
